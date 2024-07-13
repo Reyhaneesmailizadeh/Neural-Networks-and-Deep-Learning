@@ -1,5 +1,5 @@
 # Introduction
-In this Computer Assignment you will see two articles which are implemmented:
+In this Computer Assignment you will see implemmentation of two articles:
 # Q1
 Detection of Alzheimer Disease using ANDI dataset and applying different techniques such as data augmenttion and Glorot Initialization and trying different architectures.
 # Q2
